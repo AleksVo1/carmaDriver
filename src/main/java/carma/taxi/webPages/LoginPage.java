@@ -9,7 +9,7 @@ public class LoginPage extends BasePage{
     @FindBy(xpath = "//*[@class='selected-flag']")
     protected WebElement flagDropDown;
 
-    @FindBy(xpath = "//*[@class='Input phone_input']")
+    @FindBy(xpath = "//*[@class='Input styles_inputPhone__X9v6h ']")
     protected WebElement phoneField;
 
     @FindBy(xpath = "//*[@class='Button continue_btn']")
