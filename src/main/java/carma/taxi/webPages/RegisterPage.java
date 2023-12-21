@@ -11,7 +11,7 @@ public class RegisterPage extends BasePage{
     @FindBy(xpath = "//*[@class='login-title__register']")
     protected WebElement registerTitle;
 
-    @FindBy(xpath = "//*[@class='Input phone_input']")
+    @FindBy(xpath = "//*[@class='Input styles_inputPhone__X9v6h ']")
     protected WebElement phoneNumber;
 
     @FindBy(xpath = "(//*[@class='Input input_field'])[1]")
